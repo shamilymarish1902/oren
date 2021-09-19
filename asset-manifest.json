@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oren/static/css/main.82f3b2c9.chunk.css",
+    "main.js": "/oren/static/js/main.6a3255e5.chunk.js",
+    "main.js.map": "/oren/static/js/main.6a3255e5.chunk.js.map",
+    "runtime-main.js": "/oren/static/js/runtime-main.810e90ca.js",
+    "runtime-main.js.map": "/oren/static/js/runtime-main.810e90ca.js.map",
+    "static/css/2.16055337.chunk.css": "/oren/static/css/2.16055337.chunk.css",
+    "static/js/2.09bd8725.chunk.js": "/oren/static/js/2.09bd8725.chunk.js",
+    "static/js/2.09bd8725.chunk.js.map": "/oren/static/js/2.09bd8725.chunk.js.map",
+    "static/js/3.608dd91e.chunk.js": "/oren/static/js/3.608dd91e.chunk.js",
+    "static/js/3.608dd91e.chunk.js.map": "/oren/static/js/3.608dd91e.chunk.js.map",
+    "index.html": "/oren/index.html",
+    "static/css/2.16055337.chunk.css.map": "/oren/static/css/2.16055337.chunk.css.map",
+    "static/css/main.82f3b2c9.chunk.css.map": "/oren/static/css/main.82f3b2c9.chunk.css.map",
+    "static/js/2.09bd8725.chunk.js.LICENSE.txt": "/oren/static/js/2.09bd8725.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/oren/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810e90ca.js",
+    "static/css/2.16055337.chunk.css",
+    "static/js/2.09bd8725.chunk.js",
+    "static/css/main.82f3b2c9.chunk.css",
+    "static/js/main.6a3255e5.chunk.js"
+  ]
+}
